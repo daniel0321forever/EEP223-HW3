@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sky_blue_start">#FF4A90D9</color>
+    <color name="sky_blue_end">#FF1E3A5F</color>
+    <color name="cloudy_start">#FF6B7B8C</color>
+    <color name="cloudy_end">#FF3D4F5F</color>
+    <color name="rain_start">#FF4A5568</color>
+    <color name="rain_end">#FF2D3748</color>
+    <color name="night_start">#FF1A237E</color>
+    <color name="night_end">#FF0D1B2A</color>
+    <color name="card_surface">#F5FFFFFF</color>
+    <color name="card_surface_dark">#1EFFFFFF</color>
+    <color name="text_on_hero">#FFFFFFFF</color>
+    <color name="text_secondary_on_hero">#CCFFFFFF</color>
+    <color name="detail_label">#FF64748B</color>
+    <color name="detail_value">#FF0F172A</color>
+    <color name="scrim_loading">#66000000</color>
+</resources>

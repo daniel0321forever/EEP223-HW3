@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search_city_hint">Enter city name</string>
+    <string name="search_button">Search</string>
+    <string name="high_temp">H: %1$d°</string>
+    <string name="low_temp">L: %1$d°</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind_speed">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="loading_weather">Loading weather…</string>
+    <string name="error_blank_city">City Name cannot be blank</string>
+    <string name="error_no_internet">Please connect to internet</string>
+    <string name="error_city_not_found">City not found. Please check the name.</string>
+    <string name="error_generic">Unable to load weather. Please try again.</string>
+    <string name="temp_format">%1$d°</string>
+</resources>
